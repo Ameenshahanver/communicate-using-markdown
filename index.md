@@ -17,6 +17,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
 
 
 
@@ -28,4 +31,5 @@ var myVar = "Hello, world!";
 
 
 
-we have add a content to this file
+
+we have add a content to this file, an image,2 code's,added a task list
